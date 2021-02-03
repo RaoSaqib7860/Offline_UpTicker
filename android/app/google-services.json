@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "703941889548",
+    "firebase_url": "https://upticker-dbed4.firebaseio.com",
+    "project_id": "upticker-dbed4",
+    "storage_bucket": "upticker-dbed4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703941889548:android:f42d24fcf155c85beee829",
+        "android_client_info": {
+          "package_name": "com.epochs.upticker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703941889548-5u3joobk9bjv2popqoos56hf0cahkukl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epochs.upticker",
+            "certificate_hash": "72a29796867c73b8c8bded1896295d17257dff37"
+          }
+        },
+        {
+          "client_id": "703941889548-urm018gg3vck6rql17lveopv998p21nt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epochs.upticker",
+            "certificate_hash": "ae9b257beb33f5393f291d52d970b6bff6d081db"
+          }
+        },
+        {
+          "client_id": "703941889548-a6hs87fn0sqdqcn6kr9fes13e07gr6lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLb8RSKW-IdrSBBRxn97fHcu8IKGZKD3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703941889548-a6hs87fn0sqdqcn6kr9fes13e07gr6lg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "703941889548-r84jdm4lohako6mf7k3t4n715a5ke0kc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.epochsitSolution.upticker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
